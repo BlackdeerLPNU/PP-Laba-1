@@ -35,4 +35,5 @@ public class Main {
 
         service.CreateShipment(3, point3, ShipmentMethods.TRUCK, new Item(57d, 50d));
     }
+
 }
